@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello! My name is Peince Raj, and I am a final-year Computer Science student at ABES. My academic journey has equipped me with a strong foundation in various programming languages and technologies. I am proficient in Java, C++, JavaScript, React, and Node.js, with a particular emphasis on core Java concepts. As I approach the culmination of my studies, I am excited to leverage my skills in practical, real-world applications and contribute to innovative projects in the tech industry. I am passionate about problem-solving and eager to explore opportunities where I can apply my knowledge and continue to grow professionally.
+Hello! My name is Prince Raj, and I am a final-year Computer Science student at ABES. My academic journey has equipped me with a strong foundation in various programming languages and technologies. I am proficient in Java, C++, JavaScript, React, and Node.js, with a particular emphasis on core Java concepts. As I approach the culmination of my studies, I am excited to leverage my skills in practical, real-world applications and contribute to innovative projects in the tech industry. I am passionate about problem-solving and eager to explore opportunities where I can apply my knowledge and continue to grow professionally.
 
 
 <!--
